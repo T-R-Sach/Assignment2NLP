@@ -1,10 +1,12 @@
-# starter code for a2
+# README
+
+I have added all the code here. I even used a requirments.txt which is in the github. The data files are not to avoid redundency. Please use your own data files and add proper pathnames when running. Thank you.
+
+---
 
 Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of the class for ffnn.py and rnn.py
 
 Feel free to modify other part of code, they are just for your reference.
-
----
 
 One example on running the code:
 
